@@ -4,7 +4,7 @@ Upload the program into arduino and ceheck whether it's sending data through ser
 
 steps for python:
 1.downlod python
-2.download pyserial package and thingspeak python package, unzip the file, go to to the folder which has setup.py through command prompt, 
+2.download pyserial package (https://pypi.python.org/pypi/pyserial) and thingspeak python API package (https://pypi.python.org/pypi/thingspeak/), unzip the file, go to to the folder which has setup.py through command prompt, 
 then run the following command
 setup.py install
 3. open python-serial.py program change the comport name to the comport your arduino is connecte to.
